@@ -14,13 +14,19 @@ https://github.com/Shubhamk0896/ML-Project-Deploymnet.git
 
 ### Skills
 Language: Python
+
 Libraries: Pandas, Numpy, SciPy
-Deep Learning: Neural Networks, Keras,
-TensorFlow
+
+Deep Learning: Neural Networks, Keras, TensorFlow
+
 Database: MySQL
+
 IDEs: Jupyter Notebook, Pycharm, Google Colab
+
 Machine Learning: Supervised, Unsupervised
-Stats Libraries: Stats Model, SckitLearn,
-Seaborn, Patsy
+
+Stats Libraries: Stats Model, SckitLearn, Seaborn, Patsy
+
 Data Visualization Tools: Tableau Desktop
+
 Analytical Tools: MS Excel
