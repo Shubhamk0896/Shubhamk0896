@@ -27,6 +27,6 @@ Machine Learning: Supervised, Unsupervised
 
 Stats Libraries: Stats Model, SckitLearn, Seaborn, Patsy
 
-Data Visualization Tools: Tableau Desktop
+Data Visualization Tools: Tableau Desktop, Power Bi
 
 Analytical Tools: MS Excel
