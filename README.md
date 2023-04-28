@@ -21,6 +21,8 @@ Deep Learning: Neural Networks, Keras, TensorFlow
 
 Database: MySQL
 
+Cloud: GCP, AWS, Azure
+
 IDEs: Jupyter Notebook, Pycharm, Google Colab
 
 Machine Learning: Supervised, Unsupervised
