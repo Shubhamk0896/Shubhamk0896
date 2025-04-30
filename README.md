@@ -7,10 +7,7 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 - 🤝 Open for job in  analytics,data science and python
 - 👨 Know more about me at https://drive.google.com/file/d/1b6TAaCbxwY-miV1GlN-gw-qtslNDcTC5/view?usp=sharing
 
-### My Recent projects 
-https://github.com/Shubhamk0896/EDA-Project.git
 
-https://github.com/Shubhamk0896/ML-Project-Deploymnet.git
 
 ### Skills
 Language: Python
